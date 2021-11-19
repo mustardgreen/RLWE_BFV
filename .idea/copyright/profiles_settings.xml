@@ -1,0 +1,10 @@
+<component name="CopyrightManager">
+  <settings>
+    <LanguageOptions name="ObjectiveC">
+      <option name="prefixLines" value="false" />
+    </LanguageOptions>
+    <LanguageOptions name="TypeScript">
+      <option name="block" value="false" />
+    </LanguageOptions>
+  </settings>
+</component>
